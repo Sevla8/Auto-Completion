@@ -1,0 +1,7 @@
+.result_focus {
+	background-color: grey;
+}
+
+#search, #results {
+	width: 200px;
+}
